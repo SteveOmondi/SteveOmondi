@@ -3,10 +3,10 @@
   <img src="https://profile-counter.glitch.me/SteveOmondi/count.svg" alt="Visitor's Count" />
   <img src="https://github.com/SteveOmondi/SteveOmondi/blob/main/SteveOmondi.jpg" alt="Banner of my desk desk">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Steve+Omondi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Stephen+Omondi!;" />
 </h1>
 </div>
-🔧 **Senior .NET Developer | Cloud & DevOps Engineer | Data Enthusiast**  
+🔧 **Senior .NET Developer | Cloud & DevOps Engineer | IoT & Data Enthusiast**  
 🌍 Nairobi, Kenya | 💻 Azure | ☁️ Terraform | 🧠 ML on Edge | ⚽ AI in Sports
 
 ---
