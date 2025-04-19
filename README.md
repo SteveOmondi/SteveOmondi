@@ -21,7 +21,13 @@ I'm a passionate software engineer with over 12 years of experience building sca
 
 I love solving tough problems, architecting systems that scale, and mentoring teams on clean code and DevOps culture. I'm also building football analytics platforms and IoT-backed credit scoring systems in my free time.
 
-📬 Feel free to connect, collaborate or reach out via [LinkedIn](https://www.linkedin.com/in/stephenomondiopiyo/) or email me at **steveomondi.opiyo@gmail.com**
+## 🤝 Let's Collaborate
+I’m open to:
+- FinTech or IoT-focused open-source initiatives  
+- Mentoring junior developers  
+- Technical writing or talks on .NET, Azure, DevOps
+
+Feel free to connect or drop a message!, collaborate or reach out via [LinkedIn](https://www.linkedin.com/in/stephenomondiopiyo/) or email me at **steveomondi.opiyo@gmail.com**
 
 ---
 
